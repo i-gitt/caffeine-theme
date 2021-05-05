@@ -2,6 +2,14 @@
 
 ![Caffeine Coding](http://i.imgur.com/NiugCmL.png)
 
+
+
+## Update !
+
+Theme got necessary updates for the use with Ghost Version 4
+
+To activate the search : put a variable called contentapikey with a new api key in the head section via code injection
+
 ## Introduction
 
 **Caffeine Theme** is a Material Design inspired theme for the [Ghost](https://ghost.org?lmref=744)publishing platform. It originally began as a fork of [Uno-Zen](https://github.com/Kikobeats/uno-zen), but has since been drastically changed. Huge thanks to the original creator for the original theme layout and inspiration.
